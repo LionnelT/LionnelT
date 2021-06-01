@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 -->
 <!-- -  I’m currently working on [Confidant](https://confidant-zw.web.app/) -->
 - I’m a Computer Science Undergrad at Harare Institute of Technology.
+- [Google Developer Student Clubs HIT](https://dsc.community.dev/harare-institute-of-technology/) Vice Lead 
 - [Google Developer Student Clubs 2021 Solution Challenge](https://developers.google.com/community/dsc-solution-challenge) Semi-Finalist. 
 - ⚡ Fun fact: The first time a computer was “debugged”, it was in a literal sense because a moth had been caught in a relay and hindered the computer’s function.
 - Programming Languages: <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=plastic&logo=css3&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=plastic&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=plastic&logo=markdown&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=plastic&logo=python&logoColor=white"/>
