@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 <!-- -  I’m currently working on [Confidant](https://confidant-zw.web.app/) -->
 - I’m a Computer Science Undergrad at Harare Institute of Technology.
-- [Google Developer Student Clubs HIT](https://dsc.community.dev/harare-institute-of-technology/) Vice Lead 
+- [Google Developer Student Clubs HIT](https://dsc.community.dev/harare-institute-of-technology/) Member.
 - [Google Developer Student Clubs 2021 Solution Challenge](https://developers.google.com/community/dsc-solution-challenge) Semi-Finalist. 
 - ⚡ Fun fact: The first time a computer was “debugged”, it was in a literal sense because a moth had been caught in a relay and hindered the computer’s function.
 - Programming Languages: <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=plastic&logo=css3&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=plastic&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=plastic&logo=markdown&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=plastic&logo=python&logoColor=white"/>
@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 - OS: <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
 
 
-![LionnelT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LionnelT&theme=outrun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionnelT&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionnelT) 
 
-
-
+![LionnelT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LionnelT&theme=outrun&show_icons=true) \
 
 <!-- - 💬 Ask me about ...
 - 😄 Pronouns:
