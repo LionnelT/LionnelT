@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 <!-- -  I’m currently working on [Confidant](https://confidant-zw.web.app/) -->
-- I’m a Computer Science Undergrad at Harare Institute of Technology.
+<-- - I’m a Computer Science Undergrad at Harare Institute of Technology.-->
 - [Google Developer Student Clubs HIT](https://dsc.community.dev/harare-institute-of-technology/) Member.
 - [Google Developer Student Clubs 2021 Solution Challenge](https://developers.google.com/community/dsc-solution-challenge) Semi-Finalist. 
 - ⚡ Fun fact: The first time a computer was “debugged”, it was in a literal sense because a moth had been caught in a relay and hindered the computer’s function.
