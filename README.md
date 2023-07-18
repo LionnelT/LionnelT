@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionnelT) 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LionnelT&theme=outrun&show_icons=true)
+<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LionnelT&theme=outrun&show_icons=true) -->
 
-![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LionnelT)
+<!-- ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LionnelT) -->
 
 
 
