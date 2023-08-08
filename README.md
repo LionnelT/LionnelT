@@ -1,49 +1,50 @@
-### Hi there 👋, I'm Lionnel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lionnel Tsuro
+=====================================================================================================================================
 
-<a href="mailto:lionneltsuro56@gmail.com">![lionnletsuro56@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)</a>   <a href="https://www.linkedin.com/in/lionnel-tsuro/">![Lionnel Tsuro](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)</a>    
+UI/UX Designer, Frontend and Mobile Developer
+---------------------------------------------
 
-<!-- <img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> -->
+I also like Technical Writing
 
+* 🌍  I'm based in Johannesburg, South Africa
+* ✉️  You can contact me at [lionneltsuro56@gmail.com](mailto:lionneltsuro56@gmail.com)
+* 🧠  I'm learning Google Cloud Platform
+* ⚡  Google Developer Student Clubs 2021 Solution Challenge Semi-Finalist.
 
-<!--
-**LionnelT/LionnelT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.github.com/LionnelT" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/LionnelT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Lionnel_Stizo" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Lionnel_Stizo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-Here are some ideas to get you started:
--->
-<!-- -  I’m currently working on [Confidant](https://confidant-zw.web.app/) -->
-<!-- - I’m a Computer Science Undergrad at Harare Institute of Technology.-->
-<!-- - [Google Developer Student Clubs HIT](https://dsc.community.dev/harare-institute-of-technology/) Member. -->
-- [Google Developer Student Clubs 2021 Solution Challenge](https://developers.google.com/community/dsc-solution-challenge) Semi-Finalist. 
-- You can checkout my Tech Articles [here](https://dev.to/lionnelt)
-- ⚡ Fun fact: The first time a computer was “debugged”, it was in a literal sense because a moth had been caught in a relay and hindered the computer’s function.
-- Programming Languages:  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=plastic&logo=css3&logoColor=white"/> <img alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white"> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=plastic&logo=markdown&logoColor=white"/>  
-- Frameworks and Libraries: <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=plastic&logo=bootstrap&logoColor=white"/> <img alt="flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white" > <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=plastic&logo=react&logoColor=%2361DAFB"/> 
-<!-- - [![Frontend:](https://skillicons.dev/icons?i=angular,css,flutter,html,css,wasm)](https://skillicons.dev) -->
-- Design: 	<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=plastic&logo=adobephotoshop&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white"/> <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"/>
-- Version Control: <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=plastic&logo=github&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white"/>
-<!-- - Databases: 	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=plastice&logo=mongodb&logoColor=white"/>	<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=plastic&logo=mysql&logoColor=white"/> -->
-<!-- - OS: <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" /> -->
+### Skills
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionnelT) 
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+</p>
 
-[![Lionnel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LionnelT&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LionnelT&show_icons=true&theme=radical) -->
+### Socials
 
+<p align="left"> <a href="https://www.dev.to/lionnelt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/LionnelT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lionnel-tsuro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Lionnel_Stizo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Badges
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LionnelT&theme=navy-gear)](https://git.io/streak-stats)
-
-<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LionnelT&theme=outrun&show_icons=true) -->
-
-<!-- ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LionnelT) -->
-
-
-
-<!-- - 💬 Ask me about ...
-- 😄 Pronouns:
-
-- 🤔 I’m looking for help with ...
--  👯 I’m looking to collaborate on ... -->
-
+<a href="https://github.com/LionnelT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LionnelT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
