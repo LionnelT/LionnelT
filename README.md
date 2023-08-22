@@ -47,6 +47,11 @@ src="https://img.shields.io/twitter/follow/Lionnel_Stizo?logo=twitter&style=for-
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Useful VS Code Extensions for Flutter Developers](https://dev.to/lionnelt/useful-vs-code-extensions-for-flutter-developers-20bb)
+- [A beginner&#39;s guide to RxDart](https://dev.to/lionnelt/a-beginners-guide-to-rxdart-3mn0)
+- [Google Cloud Platform &lpar;GCP&rpar; for Beginners](https://dev.to/lionnelt/google-cloud-platform-gcp-for-beginners-2137)
+- [Performance Optimization in Flutter](https://dev.to/lionnelt/performance-optimization-in-flutter-129c)
+- [Coding with a Smile😊: Funny Programming Jokes to Boost Your Mood](https://dev.to/lionnelt/coding-with-a-smile-funny-programming-jokes-to-boost-your-mood-f8c)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✨ Badges
