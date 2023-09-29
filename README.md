@@ -47,7 +47,7 @@ src="https://img.shields.io/twitter/follow/Lionnel_Stizo?logo=twitter&style=for-
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streams in Dart: A Comprehensive Guide](https://dev.to/lionnelt/streams-in-dart-a-comprehensive-guide-4pai)
+- [Streams in Dart](https://dev.to/lionnelt/streams-in-dart-21le)
 - [Useful VS Code Extensions for Flutter Developers](https://dev.to/lionnelt/useful-vs-code-extensions-for-flutter-developers-20bb)
 - [A beginner&#39;s guide to RxDart](https://dev.to/lionnelt/a-beginners-guide-to-rxdart-3mn0)
 - [Google Cloud Platform &lpar;GCP&rpar; for Beginners](https://dev.to/lionnelt/google-cloud-platform-gcp-for-beginners-2137)
