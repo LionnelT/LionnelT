@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lionnel Tsuro
 =====================================================================================================================================
 
-UI/UX Designer, Frontend and Mobile Developer
+Frontend and Mobile Developer
 ---------------------------------------------
 
 I also like Technical Writing
 
-* 🌍  I'm based in Johannesburg, South Africa
-* ✉️  You can contact me at [lionneltsuro56@gmail.com](mailto:lionneltsuro56@gmail.com)
+<!-- * 🌍  I'm based in Johannesburg, South Africa -->
+* ✉️  You can contact me on [lionneltsuro56@gmail.com](mailto:lionneltsuro56@gmail.com)
 * 🧠  I'm learning Google Cloud Platform
 * ⚡  Google Developer Student Clubs 2021 Solution Challenge Semi-Finalist.
 
